@@ -1,5 +1,6 @@
 ---
+description: Enforce snake_case variable naming conventions across all Python files
 alwaysApply: true
 ---
 
-use snake case variable naming standars
+Use snake_case variable naming standards.

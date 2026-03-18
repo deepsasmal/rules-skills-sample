@@ -1,9 +1,3 @@
----
-description: "API design standards: versioning, naming, async rules, request/response envelope, pagination."
-alwaysApply: false
-globs: "api/**"
----
-
 # API Design Rules
 
 ## Versioning & Naming

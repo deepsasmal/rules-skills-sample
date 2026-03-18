@@ -1,3 +1,3 @@
 # review
 
-Chek of secuirty issues, suggest improviments, write tests
+Check for security issues, suggest improvements, write tests.
